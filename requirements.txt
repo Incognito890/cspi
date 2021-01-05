@@ -1,0 +1,10 @@
+certifi==2020.12.5
+chardet==4.0.0
+hurry.filesize==0.9
+idna==2.10
+pytube==10.4.1
+pytube-cli==0.0.1
+requests==2.25.1
+termcolor==1.1.0
+typing-extensions==3.7.4.3
+urllib3==1.26.2
